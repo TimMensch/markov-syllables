@@ -1,0 +1,28 @@
+{
+  "name": "markov-syllables",
+  "version": "1.0.0",
+  "description": "Based on: https://github.com/davidminor/markov-words.git . Generates pronounceable random words via Markov chains",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mugendi/markov-syllables.git"
+  },
+  "keywords": [
+    "pronounceable",
+    "english",
+    "password",
+    "generator"
+  ],
+  "author": "Anthony Mugendi (ngurumugz@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mugendi/markov-syllables/issues"
+  },
+  "homepage": "https://github.com/mugendi/markov-syllables"
+}

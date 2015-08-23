@@ -47,7 +47,7 @@ function createWord(stats, syllables) {
         l2 = nextLetter;
 
         syllable_count=syllable(currentWord);
-        console.log(syllable_count,currentWord)
+        // console.log(syllable_count,currentWord)
     }
 
     return currentWord;
